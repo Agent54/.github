@@ -59,6 +59,26 @@ The Xe Computer project encompasses our suite of web user agent technologies:
 | xe-mcp         | In Progress  | Cloudflare Workers           |
 | xe-vibe        | Active       | Bun, Vite                    |
 
+----
+
+### Tiles
+
+Tiles is a new interface for making personal software.
+
+#### Consumer interface
+- [**Tiles**](https://github.com/Agent54/tiles): A local-first, multiplayer enabled MCP client with notebook interface.
+
+#### Framework and runtimes
+- [**Tilekit**](https://github.com/Agent54/tilekit) is the underlying personal software framework that powers the tiles.run notebook interface. 
+
+## Project Status
+
+| Repository     | Status       | Tech Stack                   |
+|----------------|--------------|------------------------------|
+| tiles   | In Progress  | Lexical                       |
+| tilekit     | Active  | Web Applets, mcp.run, Transformers.js, SQLite, Automerge                  |
+
+
 ## Get Involved
 
 We're building the future of web user agents that put user agency first. Join us on this journey!
