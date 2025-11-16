@@ -1,6 +1,6 @@
 # Agent54
 
-Focused on building the missing layer
+Building the missing layer
 
 Own your browser before it owns you!
 
